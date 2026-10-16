@@ -1,3 +1,7 @@
+# Privora Mobile repository
+
+Standalone app extracted with history from [MohammedSafwan10/ai](https://github.com/MohammedSafwan10/ai). Desktop and static marketing stay in the original repository. Run commands from this repository root: `flutter pub get; flutter analyze; flutter test`.
+
 # Privora Mobile
 
 Privora Mobile is a local-first, multi-workspace AI companion port built with Flutter and Dart. It brings the Vite/web application's complete suite of personal workspaces—including multi-provider chat, Canvas artifacts, character hubs, multi-agent debates, and Deep Research—directly to iOS, Android, and Desktop platforms, maintaining absolute privacy and local SQLite database persistence.
